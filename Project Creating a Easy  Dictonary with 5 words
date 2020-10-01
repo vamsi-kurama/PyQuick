@@ -1,0 +1,6 @@
+print("Welcome to Dictionary")
+dictionary = {"Gold":"Sona", "Silver":"Chandi", "Bronze":"Kasa", "Copper":"Tamba", "Iron":"Loha"}
+print("The required meaning is:")
+search = input()
+print(dictionary[search])
+print("Thanks for Using Dictionary")
